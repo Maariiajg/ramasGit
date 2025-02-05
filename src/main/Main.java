@@ -27,6 +27,8 @@ public class Main {
 			
 			switch(opcion) {
 			case 1:
+
+				System.out.println("Paso2");
 				System.out.println("Paso 1, hecho por Canijo");
 				System.out.println("-------------------------------------------");
 				System.out.println();
